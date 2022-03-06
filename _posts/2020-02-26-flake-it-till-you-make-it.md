@@ -8,10 +8,14 @@ share-img: /assets/img/path.jpg
 tags: [books, test]
 ---
 
-Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?
+我也有很大的时代局限性，大家把目光投向二三十年前的县城小姑娘，她对这个世界的认知，其实是受大环境影响的，我从小的生长环境就是女孩子成人了，就不能向父母要钱了，向娘家要钱的女人是丢人现眼的。
 
-The truth is that no one else can definitively know the path we are here to walk. It’s tempting to listen—many of us long for the omnipotent other—but unless they are genuine psychic intuitives, they can’t know. All others can know is their own truth, and if they’ve actually done the work to excavate it, they will have the good sense to know that they cannot genuinely know anyone else’s. Only soul knows the path it is here to walk. Since you are the only one living in your temple, only you can know its scriptures and interpretive structure.
+然后我进入大学，接受的又是一知半解的西方观念，那就是西方人18岁以后，就不靠父母全靠自己了。ok，这种东西方各一半的混乱认知导致我大学一毕业，就觉得自己应该彻底经济独立起来了，再找父母要钱就不是人了简直。
 
-At the heart of the struggle are two very different ideas of success—survival-driven and soul-driven. For survivalists, success is security, pragmatism, power over others. Success is the absence of material suffering, the nourishing of the soul be damned. It is an odd and ironic thing that most of the material power in our world often resides in the hands of younger souls. Still working in the egoic and material realms, they love the sensations of power and focus most of their energy on accumulation. Older souls tend not to be as materially driven. They have already played the worldly game in previous lives and they search for more subtle shades of meaning in this one—authentication rather than accumulation. They are often ignored by the culture at large, although they really are the truest warriors.
+就这么瞎走乱闯了一番，回过头来去看，实际上是错的。西方孩子并没有18岁以后就不再找父母要钱了，实际上他们的法律都规定父母有义务支持子女的职业教育，只不过18岁以后，孩子算作成年人了，他们有权决定自己的生活方式和人生方向了，这些人权父母是无权通过金钱买通或绑架的。
 
-A soulful notion of success rests on the actualization of our innate image. Success is simply the completion of a soul step, however unsightly it may be. We have finished what we started when the lesson is learned. What a fear-based culture calls a wonderful opportunity may be fruitless and misguided for the soul. Staying in a passionless relationship may satisfy our need for comfort, but it may stifle the soul. Becoming a famous lawyer is only worthwhile if the soul demands it. It is an essential failure if you are called to be a monastic this time around. If you need to explore and abandon ten careers in order to stretch your soul toward its innate image, then so be it. Flake it till you make it.
+我希望中国孩子不管男女，在你的人生初级阶段，都理直气壮去找父母要起步基金。在学业或投资方面找父母要钱，和依靠父母炫富消费是两回事儿，比如学费这个父母要无条件支持，但穿衣打扮上，可以让孩子量入为出，不要盲目攀比，当然了孩子的志向如果是时尚领域，那这个又算作学费了，大家明白我的意思吧。
+
+除非一个人的天赋极大，或机遇极好，才有可能全靠自己鲤鱼跳龙门跨阶层逆袭，比如你天生金嗓子，从泯然众人一跃成名了。否则普通人，就是靠一代代往上积累，前一代没条件，那咱就不废话了，前一代明明有条件，却把孩子一到18岁就光身扔进社会了，这不是跟孩子有仇么?
+
+连革命将士都拼了老命把孩子往上拱一路互送金銮宝座呢，你一个平头百姓，一点资源都不给孩子，你让孩子怎么跟那些人的后代比啊，自己想一想吧，不管欧洲百年老店，还是中国红色后代，不管英国女王，还是美国总统，谁的孩子谁不爱啊，你还天天让孩子背着债起步呢，是人吗你。
