@@ -1,11 +1,9 @@
 ---
 layout: post
 title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
-tags: [books, test]
+title: 我也有很大的时代局限性2
+tags: [毛姐旧闻, 母父]
+comments: true
 ---
 
 我也有很大的时代局限性，大家把目光投向二三十年前的县城小姑娘，她对这个世界的认知，其实是受大环境影响的，我从小的生长环境就是女孩子成人了，就不能向父母要钱了，向娘家要钱的女人是丢人现眼的。
