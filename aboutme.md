@@ -1,16 +1,27 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: 关于我
+subtitle: 一个分享林毛毛语录的网站，薪火相传，生生不息！
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+### 我是林毛毛
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+新浪微博禁言一年流量博主，微博新号林毛毛2020和林毛毛2021，豆瓣还叫林毛毛，B站林毛毛2020，一天之内全部被炸掉的网络难民。  
 
-What else do you need?
+你可以点击本站底部的按钮，关注我的推特，获取最新动态。
 
-### My story
+### 关于本站
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+本站由热心人士搭建，目前已收录**毛姐旧闻**若干。
+
+注意：  
+1. 本站内容不得用于任何盈利用途。 
+2. 若有侵权，请及时联系本站，会第一时间进行补救。
+
+### 寄语
+
+欢迎姐妹们转发传播毛姐语录（**截图时请尽量不要包含本站网址**）
+
+> 愿每个第一性，都能砸碎孝道牌坊，勇敢追求自由！
+
+![we can do it](assets/img/we-can-do-it.jpg)
