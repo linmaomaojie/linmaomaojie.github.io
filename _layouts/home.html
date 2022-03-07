@@ -45,7 +45,7 @@ layout: page
     </a>
 
     <p class="post-meta">
-      {% assign date_format = site.date_format | `${ %Y }年${ %M }月${ %-d }日`%}
+      {% assign date_format = site.date_format | default: "%Y %m %-d" %}
       发布于 {{ post.date | date: date_format }}
     </p>
 
