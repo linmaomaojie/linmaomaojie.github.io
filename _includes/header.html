@@ -72,11 +72,11 @@
           {% endif %}
 
           {% if include.type == "post" %}
-            <span class="post-meta">Posted on {{ page.date | date: date_format }}</span>
+            <span class="post-meta">发布于 {{ page.date | date: "%Y-%m-%d" }}</span>
             {% if page.last-updated %}
               <span class="post-meta">
                 <span class="d-none d-md-inline middot">&middot;</span>
-                Last updated {{ page.last-updated | date: date_format }}
+                最近更新于 {{ page.last-updated | date: "%Y-%m-%d" }}
               </span>
             {% endif %}
             {% if page.readtime %}
