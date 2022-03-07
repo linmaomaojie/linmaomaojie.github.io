@@ -3,7 +3,7 @@ layout: page
 title: '标签目录'
 ---
 
-{% assign date_format = site.date_format | default: "%B %-d, %Y" %}
+{% assign date_format = site.date_format | default: "%Y-%m-%d" %}
 
 {%- capture site_tags -%}
     {%- for tag in site.tags -%}
